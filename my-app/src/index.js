@@ -110,7 +110,7 @@ const FooterMenu = () => (
 );
 
 const IslandSnow = () => (
-    <Container>
+    <Container fluid>
       <TopMenu />
       <IslandSnowLogo />
       <MiddleMenu />
